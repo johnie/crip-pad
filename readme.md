@@ -1,6 +1,6 @@
-# crip-pad
+# crip-pad [![Build Status](https://travis-ci.org/johnie/crip-pad.svg?branch=master)](https://travis-ci.org/johnie/crip-pad)
 
-[![Build Status](https://travis-ci.org/johnie/crip-pad.svg?branch=master)](https://travis-ci.org/johnie/crip-pad)
+> Left pad a string with crips
 
 
 ## Install
