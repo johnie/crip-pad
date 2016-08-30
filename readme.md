@@ -15,8 +15,8 @@ $ npm install --save crip-pad
 ```js
 const cripPad = require('crip-pad');
 
-cripPad('TIMMAAYY', 6);
-//=> '♿♿️️TIMMAAYY'
+cripPad('TIMMAAYY', 9);
+//=> '♿TIMMAAYY'
 ```
 
 
