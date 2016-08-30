@@ -1,0 +1,42 @@
+{
+  "name": "crip-pad",
+  "version": "1.0.0",
+  "description": "Left pad a string with crips",
+  "license": "MIT",
+  "repository": "johnie/crip-pad",
+  "author": {
+    "name": "Johnie Hjelm",
+    "email": "johnie@hjelm.im",
+    "url": "johnie.se"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "crip",
+    "pad",
+    "crips",
+    "meow",
+    "left",
+    "indent",
+    "format",
+    "string",
+    "str"
+  ],
+  "dependencies": {
+    "lodash.padstart": "^4.6.1"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
